@@ -1,6 +1,6 @@
 # 📉 Customer Churn Prediction
 
-This project aims to predict customer churn using various classification models such as SVM, AdaBoost, and Gradient Boosting. It includes handling class imbalance using SMOTE, hyperparameter tuning, and model evaluation with cross-validation.
+This project focuses on predicting customer churn for a telecommunications company by applying several classification algorithms, including SVM, AdaBoost, and Gradient Boosting. The workflow addresses class imbalance using SMOTE, incorporates hyperparameter tuning, and evaluates model performance through cross-validation. Some techniques and ideas were adapted from publicly available jupyter notebooks to enhance the analysis.
 
 ## 📂 Project Structure
 
