@@ -6,6 +6,7 @@ This project focuses on predicting customer churn for a telecommunications compa
 
 - **churn_pred_final.ipynb** : Jupyter notebook containing the full EDA, preprocessing, SMOTE application, model tuning, and evaluation.
 - **requirements.txt**: List of packages (optional)
+- Dataset in csv format
 
 ## 🧠 Models Used
 
